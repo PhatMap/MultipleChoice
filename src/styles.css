@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+}
+
+.answer {
+  margin-top: 25px;
+  margin-bottom: 35px;
+}
+
+.label {
+  margin-right: 15px;
+}
+.answer-container {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+}
+
+.container-answer {
+  display: flex;
+}
+
+label,
+input {
+  margin: 0;
+}
